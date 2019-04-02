@@ -1,0 +1,23 @@
+ul {
+    list-style: square;
+    list-style-position: inside;
+}
+
+button {
+    margin-left: 30%;
+    margin-right: 30%
+}
+
+#top {
+    text-align: center;
+}
+
+#recipes {
+    margin-left: 5%;
+}
+
+body {
+    background-image: url('http://images6.fanpop.com/image/photos/36400000/Food-image-food-36412530-2560-1600.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
